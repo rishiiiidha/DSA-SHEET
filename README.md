@@ -1,5 +1,3 @@
-# DSA-SHEET
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Greedy
