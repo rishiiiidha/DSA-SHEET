@@ -15,7 +15,6 @@ public:
         ListNode* temp = dummy;
         dummy->next = head;
         if(head == nullptr) return nullptr;
-        int i=0;
         while(temp!=nullptr && temp->next!=nullptr){
            if(temp->val > temp->next->val){
             ListNode* key = temp->next;
@@ -28,16 +27,6 @@ public:
             prev->next = key;
             temp->next = key->next;
             key->next = ptr;
-            if(i==0){
-                cout<<temp->val<<endl;
-            }
-            i++;
-            // cout<<dummy->val<<endl;
-            // cout<<dummy->next->val<<endl;
-            // cout<<dummy->next->next->val<<endl;
-            // cout<<dummy->next->next->next->val<<endl;
-            // cout<<dummy->next->next->next->next->val<<endl;
-            // cout<<temp->next<<endl;
            }
            else if(temp!=nullptr) temp=temp->next;
         }
