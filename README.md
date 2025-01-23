@@ -3,6 +3,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [2509-minimize-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2509-minimize-xor) |
 ## Bit Manipulation
 |  |
@@ -13,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
@@ -42,4 +44,9 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0147-insertion-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
