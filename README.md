@@ -3,6 +3,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2509-minimize-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2509-minimize-xor) |
@@ -15,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
