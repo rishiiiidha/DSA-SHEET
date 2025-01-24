@@ -36,6 +36,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -63,6 +64,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
