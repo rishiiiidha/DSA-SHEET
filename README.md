@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
@@ -60,11 +61,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,11 +101,13 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
