@@ -19,6 +19,7 @@
 | [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2792-neighboring-bitwise-xor) |
@@ -89,4 +90,16 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0820-find-eventual-safe-states) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
