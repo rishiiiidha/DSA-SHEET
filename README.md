@@ -20,6 +20,7 @@
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2792-neighboring-bitwise-xor) |
@@ -98,8 +99,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
