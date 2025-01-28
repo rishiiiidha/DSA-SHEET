@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
