@@ -7,6 +7,7 @@
 | [0045-jump-game-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0455-assign-cookies) |
@@ -26,6 +27,7 @@
 | [0055-jump-game](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0455-assign-cookies) |
