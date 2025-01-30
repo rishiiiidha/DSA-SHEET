@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishiiiidha/DSA-SHEET/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -135,4 +136,12 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## String
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
