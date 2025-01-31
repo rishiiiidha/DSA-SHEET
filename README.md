@@ -11,6 +11,7 @@
 | [0435-non-overlapping-intervals](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0455-assign-cookies) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2509-minimize-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2509-minimize-xor) |
 ## Bit Manipulation
 |  |
@@ -139,6 +140,7 @@
 ## String
 |  |
 | ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
 |  |
