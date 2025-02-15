@@ -92,6 +92,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
@@ -155,4 +156,8 @@
 | [0584-find-customer-referee](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishiiiidha/DSA-SHEET/tree/master/1908-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
