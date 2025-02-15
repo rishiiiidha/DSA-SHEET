@@ -41,6 +41,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishiiiidha/DSA-SHEET/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/3429-special-array-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishiiiidha/DSA-SHEET/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Brainteaser
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rishiiiidha/DSA-SHEET/tree/master/0496-next-greater-element-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishiiiidha/DSA-SHEET/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rishiiiidha/DSA-SHEET/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishiiiidha/DSA-SHEET/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
 | ------- |
